@@ -1,5 +1,6 @@
 body{
-  background-color: #757575;
+  background-image:url("http://onehdwallpaper.com/wp-content/uploads/2015/07/Full-HD-Music-1080p-Wallpapers.jpg");
+
 }
 
 #instrument{
@@ -19,44 +20,44 @@ body{
 }
 
 #c{
-  background-color: #3e181b;
+  background-color: #b71c1c;
 }
 #c:hover{
-  background-color: #661920;
+  background-color: #ef9a9a;
 }
 #d{
-  background-color: #422018;
+  background-color: #ff5722;
 }
 #d:hover{
-  background-color: #632819;
+  background-color: #ff8a65;
 }
 #e{
-  background-color: #45391b;
+  background-color: #fdd835;
 }
 #e:hover{
-  background-color: #735b20;
+  background-color: #fff176;
 }
 #f{
-  background-color: #193c29;
+  background-color: #1b5e20;
 }
 #f:hover{
-  background-color: #1b613b;
+  background-color: #4caf50;
 }
 #g{
-  background-color: #18323e;
+  background-color: #0d47a1;
 }
 #g:hover{
-  background-color: #184d65;
+  background-color: #c5cae9;
 }
 #a{
-  background-color: #331f35;
+  background-color: #6a1b9a;
 }
 #a:hover{
-  background-color: #4e2753;
+  background-color: #ba68c8;
 }
 #b{
-  background-color: #43293d;
+  background-color: #4527a0;
 }
 #b:hover{
-  background-color: #6f3a62;
+  background-color: #b39ddb;
 }
